@@ -31,7 +31,7 @@ Usage:  ${PROGNAME} -u <user key> -a <api key> [<options>] -t "Titel" -m "Nachri
 Supported options:
     -h              Hilfe anzeigen
     -v              Version anzeigen
-    -u  <user key>  user key (nicht die E-Mail Adressenot) - Kann im Programm hinterlegt werden
+    -u  <user key>  user key (nicht die E-Mail Adresse) - Kann im Programm hinterlegt werden
     -a  <api key>   application's API token - Kann im Programm hinterlegt werden
     -m  <message>   Nachricht, welche gesendet wird. Muss in Anfuehrungszeichen eingegeben werden
     -d  <device>    Device an welches die Nachricht gesendet wird - Kann im Programm hinterlegt werden
