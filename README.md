@@ -1,4 +1,4 @@
-# VR2020_Alarm
+# VR2020_Pushover
 Alarm LEDs bei Verbindungswegfall beim TDT VR2020-D/LD
 
 Um bei dem VR2020 eine etwas „feinere“ Art der ALARM-LED
